@@ -753,5 +753,9 @@ section{
     .home .slide .content h3{
         font-size: 7rem;
     }
+    .swiper-button-next,
+    .swiper-button-prev{
+        display: none !important;
+    }
 }
 
