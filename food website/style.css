@@ -481,6 +481,7 @@ section{
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
+    margin-bottom:1.5rem;
 }
 
 .order form .box-container .box{
