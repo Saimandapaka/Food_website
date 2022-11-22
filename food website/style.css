@@ -776,6 +776,10 @@ section{
     .order form{
         max-width: 100%;
     }
+    
+    .input-btn{
+        margin-top: 2rem;
+    }
 
     .footer .icons-container{
         display: flex;
