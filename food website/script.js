@@ -77,6 +77,10 @@ var swiper = new Swiper(".menu-slider",{
   autoHeight:true,
   centeredSlides:true,
   spaceBetween: 20,
+  autoplay:{
+    delay:2500,
+    disableOnInteraction:false,
+  },
   pagination:{
     el:".swiper-pagination",
     clickable: true,
