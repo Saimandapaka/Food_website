@@ -481,13 +481,14 @@ section{
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
-    margin-bottom:1.5rem;
+    margin-bottom: 1rem;
 }
 
 .order form .box-container .box{
     flex: 1 1 41rem;
-    height: 50vh;
+    height: auto;
     width: 50%;
+    margin-bottom: 1rem;
 }
 
 .order form .box-container .box .inputBox input,
