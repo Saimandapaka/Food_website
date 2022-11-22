@@ -223,7 +223,7 @@ section{
 }
 
 .about .content p{
-    font-size: 1.7rem;
+    font-size: 1.8rem;
     color: var(--light-black);
     padding: 1rem 0;
     line-height: 2rem;
@@ -341,7 +341,7 @@ section{
     color: var(--peru);
 }
 .food-preview-container .food-preview p{
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     color: var(--light-black);
     padding: 1rem 0;
     line-height: 2;
@@ -442,7 +442,7 @@ section{
 }
 
 .menu .slide .box-container .box p{
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     color: var(--light-black);
     line-height: 2;
 }
